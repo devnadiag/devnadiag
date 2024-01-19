@@ -14,3 +14,7 @@
 <img alt = "" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <img alt = "" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
+
+### Linguagens mais utilizadas por mim aqui no GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnadiag&hide_progress=true)
